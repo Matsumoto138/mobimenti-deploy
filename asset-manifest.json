@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobimenti-deploy/static/css/main.3c83476f.css",
+    "main.js": "/mobimenti-deploy/static/js/main.4c20d029.js",
+    "static/media/Banner.png": "/mobimenti-deploy/static/media/Banner.75f91633850f4cec9a2d.png",
+    "static/media/mobimenti_logo (2).png": "/mobimenti-deploy/static/media/mobimenti_logo (2).0fd76f7c557ffff63e14.png",
+    "index.html": "/mobimenti-deploy/index.html",
+    "main.3c83476f.css.map": "/mobimenti-deploy/static/css/main.3c83476f.css.map",
+    "main.4c20d029.js.map": "/mobimenti-deploy/static/js/main.4c20d029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c83476f.css",
+    "static/js/main.4c20d029.js"
+  ]
+}
