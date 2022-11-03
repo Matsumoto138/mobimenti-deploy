@@ -1,6 +1,9 @@
 import React from 'react'
 import Fullpage,{ FullPageSections, FullpageSection, FullpageNavigation } from "@ap.cx/react-fullpage";
 import FİrstPage from './Pages/FirstPage';
+import SecondPage from './Pages/SecondPage';
+import ThirdPage from './Pages/ThirdPage';
+import FourthPage from './Pages/FourthPage';
 
 
 function FullPageScroll() {
@@ -20,13 +23,13 @@ function FullPageScroll() {
                 <FİrstPage />
             </FullpageSection>
             <FullpageSection style={{...SectionStyle, backgroundColor:'#white'}} >
-                <h1>Screen 2</h1>
+                <SecondPage />
             </FullpageSection>
             <FullpageSection style={{...SectionStyle, backgroundColor:'#white'}} >
-                <h1>Screen 3</h1>
+                <ThirdPage />
             </FullpageSection>
             <FullpageSection style={{...SectionStyle, backgroundColor:'#white   '}} >
-                <h1>Screen 4</h1>
+                <FourthPage />
             </FullpageSection>
         </FullPageSections>
     </Fullpage>
