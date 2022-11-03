@@ -19,7 +19,7 @@ export default function FourthPage() {
                 Unutma; yeni bir ağ, yeni bir lider, yeni bir kariyer hayali çok uzağında değil.
                 Mentorluk ve eğitim programlarımız çok yakında...
             </p>
-            <button>Mentor Ol</button>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXYqm2d3JcJG1qR03aN9T75qX7QAz9BG3H0lp9shwMRahKng/viewform?usp=sharing" target="blank"><button>Mentor Ol</button></a>
         </div>
         <div className="img">
             <video src={TeamVideo} autoPlay loop muted ></video>

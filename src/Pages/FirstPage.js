@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar'
 import '../Style/FirstPage.css'
 
 
+
 function FİrstPage() {
   return (
     <div className='First-Page'>
@@ -15,7 +16,7 @@ function FİrstPage() {
             Mentor olarak daha etkin bir lider, geniş bir ağ ve güçlü bir kariyer
             inşa etmeye hazır olun!
           </p>
-          <button>Mentor Ol</button>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXYqm2d3JcJG1qR03aN9T75qX7QAz9BG3H0lp9shwMRahKng/viewform?usp=sharing" target="blank"><button>Mentor Ol</button></a>
         </div>
         
     </div>
