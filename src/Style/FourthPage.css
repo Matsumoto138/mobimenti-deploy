@@ -47,4 +47,8 @@
     .FourthPage .text{
         width: 90%;
     }
+
+    .FourthPage video{
+        display: none;
+    }
 }
