@@ -1,6 +1,8 @@
 import React from 'react'
 import '../Style/FourthPage.css'
 import TeamVideo from '../Images/team.mp4'
+import LinkedinSvg from "../Images/linkedin.png"
+import Instagram from "../Images/instagram.png"
 
 export default function FourthPage() {
   return (
@@ -19,7 +21,15 @@ export default function FourthPage() {
                 Unutma; yeni bir ağ, yeni bir lider, yeni bir kariyer hayali çok uzağında değil.
                 Mentorluk ve eğitim programlarımız çok yakında...
             </p>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXYqm2d3JcJG1qR03aN9T75qX7QAz9BG3H0lp9shwMRahKng/viewform?usp=sharing" target="blank"><button>Mentor Ol</button></a>
+            <div className="FourthPage-BottomSection">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdXYqm2d3JcJG1qR03aN9T75qX7QAz9BG3H0lp9shwMRahKng/viewform?usp=sharing" target="blank"><button>Mentor Ol</button></a>
+              <div className="social-icons">
+                  <ul>
+                      <li><a href="https://www.linkedin.com/company/mobi%CC%87menti%CC%87/" target="blank"><img src={LinkedinSvg} alt="" /></a></li>
+                      <li><a href="https://www.instagram.com/mobi.menti/" target="blank"><img src={Instagram} alt="" /></a></li>
+                  </ul>
+              </div>
+            </div>
         </div>
         <div className="img">
             <video src={TeamVideo} autoPlay loop muted ></video>

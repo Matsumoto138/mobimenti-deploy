@@ -43,7 +43,7 @@ function ThirdPage() {
     <div className='ThirdPage' ref={targetRef}>
         <div className="part-one">
             <div className="text" id='thirdpage-partOneText'>
-                <p>Farklı Kişilerle Mentorluk Yaparak Gelişirsin</p>
+                <p>Farklı kişilerle mentorluk yaparak gelişirsin</p>
             </div>
             <div className="img" id='thirdpage-partOneImg'>
                 <img src={PartOneImg} alt="" />
@@ -55,9 +55,9 @@ function ThirdPage() {
             </div>
 
             <div className="text" id='thirdpage-partTwoText'>
-                <p>Mentilerin Gelişim Gösterirken Kendi Kör Noktalarını Öğrenmelerine Benzer Şekilde, 
-                    Sen de Mentor Olarak Bir Öğrenme Sürecinde Olursun.
-                    Bu, Son Derece Kıymetlidir
+                <p>Mentilerin gelişim gösterirken kendi kör noktalarını öğrenmelerine benzer şekilde, 
+                    sen de mentor olarak bir öğrenme sürecinde olursun.
+                    Bu, son derece kıymetlidir
                 </p>
             </div>
             
