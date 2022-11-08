@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mobimenti-deploy/static/css/main.e9bb7288.css",
-    "main.js": "/mobimenti-deploy/static/js/main.7519f556.js",
+    "main.css": "/mobimenti-deploy/static/css/main.d520d2c4.css",
+    "main.js": "/mobimenti-deploy/static/js/main.7e09073f.js",
     "static/media/Banner.png": "/mobimenti-deploy/static/media/Banner.75f91633850f4cec9a2d.png",
     "static/media/mentoring4.png": "/mobimenti-deploy/static/media/mentoring4.24cf80c872860d4c7858.png",
     "static/media/patternpad2.png": "/mobimenti-deploy/static/media/patternpad2.8dbae8f1166925a8a313.png",
@@ -12,12 +12,14 @@
     "static/media/mentoring2.png": "/mobimenti-deploy/static/media/mentoring2.9e71aa638dbffbc57131.png",
     "static/media/patternpad3.png": "/mobimenti-deploy/static/media/patternpad3.d0966bfda36afa5848ab.png",
     "static/media/patternpad.png": "/mobimenti-deploy/static/media/patternpad.4e5938d8b435de8e87be.png",
+    "static/media/instagram.png": "/mobimenti-deploy/static/media/instagram.6ccfbb4bd0e5807c06a4.png",
+    "static/media/linkedin.png": "/mobimenti-deploy/static/media/linkedin.8fceef5f64ba8824ffff.png",
     "index.html": "/mobimenti-deploy/index.html",
-    "main.e9bb7288.css.map": "/mobimenti-deploy/static/css/main.e9bb7288.css.map",
-    "main.7519f556.js.map": "/mobimenti-deploy/static/js/main.7519f556.js.map"
+    "main.d520d2c4.css.map": "/mobimenti-deploy/static/css/main.d520d2c4.css.map",
+    "main.7e09073f.js.map": "/mobimenti-deploy/static/js/main.7e09073f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9bb7288.css",
-    "static/js/main.7519f556.js"
+    "static/css/main.d520d2c4.css",
+    "static/js/main.7e09073f.js"
   ]
 }
