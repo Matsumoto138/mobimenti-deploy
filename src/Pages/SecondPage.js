@@ -46,7 +46,7 @@ function SecondPage() {
     <div className='SecondPage' ref={targetRef} >
         <div className="part-one"  >
             <div className="text" id='secondpage-partOneText' >
-                <p>Bilgi ve deneyimlerinle birçok gencin hayatına dokunabilirsin</p>
+                <p>Bilgi ve deneyimlerinle birçok gencin hayatına dokunabilirsin.</p>
             </div>
             <div className="img" id='secondpage-partOneImg' >
                 <img src={PartOneImg} alt="" />
@@ -59,7 +59,7 @@ function SecondPage() {
 
             <div className="text" id='secondpage-partTwoText'>
                 <p>Bilmediklerini keşfetmek, mentor olmanın sana sunduğu bir hediye olurken
-                    bildiklerini hatırlamak da bu sürecin sana başka bir armağanı olur
+                    bildiklerini hatırlamak da bu sürecin sana başka bir armağanı olur.
                 </p>
             </div>
             
