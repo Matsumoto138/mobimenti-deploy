@@ -16,7 +16,7 @@ export default function FourthPage() {
                 Dünyada çok fazla uygulanan bir öğrenme modeli olan mentorluk, senin için bir dönüm noktası özelliği taşıyabilir!
                 <br /><br />
                 Bununla birlikte hızla büyüyen platformumuzda gelişmeleri takip etmek ve öğrenmeni hızlandıracak çeşitli kariyer 
-                çalışmlaları hakkında bilgi almak için blog sayfamızı takip edebilirsin. <br /><br />
+                çalışmaları hakkında bilgi almak için blog sayfamızı takip edebilirsin. <br /><br />
 
                 Unutma; yeni bir ağ, yeni bir lider, yeni bir kariyer hayali çok uzağında değil.
                 Mentorluk ve eğitim programlarımız çok yakında...
